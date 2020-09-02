@@ -1,2 +1,2 @@
-# C-digos-em-java
+# Códigos em java
 Códigos criados em java em projetos da faculdade
